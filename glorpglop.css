@@ -1,0 +1,36 @@
+p{
+    color:tomato;
+}
+h1{
+    color:tomato;
+}
+h2{
+    color:tomato;
+}
+
+body{
+    background-color:black
+}
+h1{
+    font-size:275% 
+}
+p{
+    font-size:125%
+}
+a:hover {
+    background-color: tomato;
+    font-size: 18px;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+
+  img{
+    float:right
+  }
+  .p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
